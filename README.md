@@ -4,12 +4,12 @@
 
 </div>
 
+### What is Prettier?
+
 ```Node
-While completing a computer graphics course, I had to complete a lab where I implemented some algorithms.
-All the code I've added here can help make your learning process easier.
+Prettier is an opinionated code formatter that ensures a consistent and beautiful codebase.
+It parses your code and prints it in a standardized format, making your code more readable and maintainable.
 ```
-
-
 
 
 <div align="center">
